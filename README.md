@@ -15,7 +15,6 @@ Baggy is a remarkable mobile ecommerce application developed as part of the "Bui
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -63,8 +62,6 @@ Baggy offers an array of features to enhance the bag shopping experience:
 - **Add to Cart**: Conveniently add bags to your shopping cart.
 - **Shopping Cart**: Review and manage the items in your cart.
 - **Checkout**: Securely complete your purchase with various payment options.
-- **Order History**: Track your previous orders and their current status.
-- **User Profile**: Manage your account information and settings.
 
 ## Usage
 
@@ -95,6 +92,3 @@ We welcome contributions to improve Baggy! To contribute, please adhere to the f
 
 We greatly appreciate your contributions!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
