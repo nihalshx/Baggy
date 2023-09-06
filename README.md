@@ -14,6 +14,7 @@ Baggy is a remarkable mobile ecommerce application developed as part of the "Bui
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
+- [Download](#download)
 
 ## Getting Started
 
@@ -90,4 +91,12 @@ We welcome contributions to improve Baggy! To contribute, please adhere to the f
 5. Generate a pull request with a clear description of your modifications.
 
 We greatly appreciate your contributions!
+
+
+## Download
+
+You can download the latest version of the Baggy app by clicking the button below:
+
+[Download Baggy](https://drive.google.com/file/d/13RiyQmYfx3dp8-aAHIWmLAtZkYAbukWS/view?usp=drive_link)
+
 
