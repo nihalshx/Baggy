@@ -31,14 +31,27 @@ These instructions will guide you through setting up and running the Baggy app o
 
    ```bash
    git clone https://github.com/your-username/baggy.git
+   ```
 
-# Baggy - Ecommerce Bag App
+2. Navigate to the project directory:
 
-![Baggy Logo](assets/images/logo.png)
+   ```bash
+   cd baggy
+   ```
 
-**Build From Home by TinkerHub Foundation**
+3. Install the app's dependencies:
 
-Baggy is a remarkable mobile ecommerce application developed as part of the "Build From Home" initiative by TinkerHub Foundation. This project demonstrates the incredible capability of building a product from scratch and successfully deploying it within just 7 days. Baggy is tailored exclusively for bag enthusiasts, offering an extensive collection of bags from various brands and styles. With Baggy, users can seamlessly explore, search, and purchase their preferred bags, providing a convenient and enjoyable shopping experience.
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+Now, you should have the Baggy app up and running on your development machine.
 
 ## Features
 
