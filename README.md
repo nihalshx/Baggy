@@ -1,6 +1,5 @@
 # Baggy - Ecommerce Bag App
 
-![Baggy Logo](assets/images/logo.png)
 
 **Build From Home by TinkerHub Foundation**
 
