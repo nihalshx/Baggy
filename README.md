@@ -81,7 +81,7 @@ Enjoy your new bag!
 
 ## Screenshots
 
-![Baggy Screenshots](assets/images/screenshots.png)
+![Baggy Screenshots](assets/images/Thumbnail.png)
 
 ## Contributing
 
