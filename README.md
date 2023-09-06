@@ -15,10 +15,11 @@ Baggy is a remarkable mobile ecommerce application developed as part of the "Bui
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Download](#download)
+- [Certifications](#certifications)
 
 ## Getting Started
 
-These instructions will guide you through setting up and running the Baggy app on your local development environment.
+These instructions will guide you through setting up and running the Baggy app on your local development environment. 
 
 ### Prerequisites
 
@@ -97,6 +98,14 @@ We greatly appreciate your contributions!
 
 You can download the latest version of the Baggy app by clicking the button below:
 
-[Download Baggy](https://drive.google.com/file/d/13RiyQmYfx3dp8-aAHIWmLAtZkYAbukWS/view?usp=drive_link)
+[Download Baggy](https://drive.google.com/file/d/13RiyQmYfx3dp8-aAHIWmLAtZkYAbukWS/view?usp=sharing)
+
+## Certifications
+
+You can check the Certifications of the Hackathon by clicking the names below:
+
+[Nihal N certificate](https://drive.google.com/file/d/1qPW2Uiswu1cV9SWwvN76rYvhxl1f11Ij/view?usp=sharing)
+
+[Megha Manoj certificate](https://drive.google.com/file/d/1efUBx2o8YUuzI4MQAip62_knhSR9a2-Q/view?usp=sharing)
 
 
