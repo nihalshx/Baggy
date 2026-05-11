@@ -102,7 +102,7 @@ You can download the latest version of the Baggy app by clicking the button belo
 
 ## Certifications
 
-You can check the Certifications of the Hackathon by clicking the names below:
+You can check the Certifications of the Hackathon by clicking the names below :
 
 [Nihal N certificate](https://drive.google.com/file/d/1qPW2Uiswu1cV9SWwvN76rYvhxl1f11Ij/view?usp=sharing)
 
