@@ -106,6 +106,5 @@ You can check the Certifications of the Hackathon by clicking the names below:
 
 [Nihal N certificate](https://drive.google.com/file/d/1qPW2Uiswu1cV9SWwvN76rYvhxl1f11Ij/view?usp=sharing)
 
-[Megha Manoj certificate](https://drive.google.com/file/d/1efUBx2o8YUuzI4MQAip62_knhSR9a2-Q/view?usp=sharing)
 
 
